@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_sky">The color of the sky is blue.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="question_shark">The largest percentage of deaths in the
+    world each year are shark related.</string>
+    <string name="question_population">America is the country with the
+        largest population.</string>
+    <string name="question_apple">The Big Apple is a nickname given to
+        Washington D.C in 1971.</string>
+    <string name="question_sleep">People may sneeze or cough while sleeping deeply.</string>
+    <string name="question_emus">Emus can’t fly.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
